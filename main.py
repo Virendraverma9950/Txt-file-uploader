@@ -21,7 +21,6 @@ from config import *
 import sys
 import re
 import os
-import uvloop
 from subprocess import getstatusoutput
 
 bot = Client("bot",

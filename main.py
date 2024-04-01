@@ -24,7 +24,7 @@ import os
 from subprocess import getstatusoutput
 
 bot = Client("bot",
-             bot_token= "6911744817:AAFH-5aOTr9hrR-VYmHFKK4w_1nXsbQ-vqw",
+             bot_token= "6846325385:AAGF5EQTa54YpQdBe21op8RCwi6WJMz96JQ",
              api_id= 25919081,
              api_hash= "0bc2fdba14b16b44f0d89729ed8d2118"
 )
